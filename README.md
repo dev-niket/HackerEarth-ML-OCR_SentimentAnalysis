@@ -2,7 +2,7 @@
 
 Author: Niket Ganatra (GitHub: https://github.com/dev-niket ) (HackerEarth: www.hackerearth.com/@niket82 )
 
-This repository contains my solution to the problem of the HackerEarth ML Challenge which was held during July, 2020. I got a rank of 109 out of 5042 participants worldwide (top 2.2%).
+This repository contains my solution to the problem of the HackerEarth ML Challenge which was held during July, 2020. I got a rank of 110 out of 5042 participants worldwide (top 2.2%).
 
 The challenge was based on 2 traditional and probably a little high level uses of Deep Learning (which is a subset of Machine Learning), Optimal Character Recognition (OCR), which comes under Computer Vision, and Sentiment Analysis, which is a Natural Language Processing (NLP) application.
 
